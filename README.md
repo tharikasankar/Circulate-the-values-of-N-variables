@@ -18,6 +18,7 @@ Assign a variable for the new list after slicing and print the variable.
 Step 6:
 End of the program
 ## Program:
+```
 #Program to circulate N values.
 #Developed by: Tharika S
 #RegisterNumber: 212222230159
@@ -26,6 +27,9 @@ def circulate():
     print("After circulating the values are:",circle)
 l=eval(input())
 n=eval(input())
+```
 ## Output:
+![Screenshot (97)](https://github.com/tharikasankar/Circulate-the-values-of-N-variables/assets/119475507/55845ec4-f842-4db3-a5f1-6918d1258cf3)
 
 ## Result:
+Thus the circulate n variables are successfully executed
